@@ -1,0 +1,33 @@
+body{
+    background-color: blueviolet;
+    align-items: center;
+    font-family:monospace;
+}
+
+h1{
+    color: blueviolet;
+    background-color: aliceblue;
+    width: 900px;
+    border-radius: 5rem;
+    text-align: center;
+}
+
+p{
+    color: blueviolet;
+    background-color: aliceblue;
+    width: 200px;
+    font-size: large;
+    border-radius: 3rem;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+    background-color: aliceblue;
+    border-radius: 0.5rem;
+    font-size: 30px;
+    justify-content: space-between;
+    
+}
+
